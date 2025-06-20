@@ -1,4 +1,4 @@
-kin Disease Classification using CNN
+skin Disease Classification using CNN
 
 This project classifies images of 7 skin diseases using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The model was trained using Google Colab and evaluated with a validation accuracy of over 60%.
  📁 Dataset
